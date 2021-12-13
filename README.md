@@ -62,3 +62,12 @@ Since our vineyards are in more than one region, City table keeps it easy for us
 
  Country:
 Country table consist of details of the country in all the cities where vineyards are operating. For time being we has our vineyards in USA, Canada, and Mexico.
+
+
+**Publicly Accesible Links:**
+
+Retool (Front End) - https://winedatabase.retool.com/apps/6f29e334-5b74-11ec-add3-83ede09028f8/WineDatabaseProject?_releaseVersion=latest
+
+Tableau Dashboard Link - https://prod-useast-b.online.tableau.com/#/site/winedatabaseprojectcom/views/WineDatabaseProjectDMDD/Dashboard1?:iid=1
+
+
