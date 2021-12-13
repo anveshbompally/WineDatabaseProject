@@ -10,6 +10,12 @@ The wine storage database management system (WSDBMS) has been designed to store 
 With this database design, we want to make it easier for the organization to maintain data about all their customers and orders. It also allows us to keep a close track of every step of the delivery process as well. Details about the wine mart and the vineyard which is supplying the processed wine are also being maintained to make sure that the organization can always maintain the right stock level to provide a hassle-free experience to their customers. There are employees who work at the Vineyards or Wine-mart and the details about supply and suppliers of the raw materials that are used, are also tracked in our database.
 
 
+<img width="1021" alt="Screen Shot 2021-12-13 at 16 35 46 PM" src="https://user-images.githubusercontent.com/29777087/145892629-4853dbac-8133-4e09-8fc8-2915a79d1bf3.png">
+
+
+![Revised Final ERD](https://user-images.githubusercontent.com/29777087/145892517-12421fe2-b475-4b4a-b1b1-6a2406b5367f.jpg)
+
+
 List of Entities:
  Customers:
 In this table, we have stored all the details about our customers and selected customer_id
