@@ -63,11 +63,17 @@ Since our vineyards are in more than one region, City table keeps it easy for us
  Country:
 Country table consist of details of the country in all the cities where vineyards are operating. For time being we has our vineyards in USA, Canada, and Mexico.
 
+**Database Used:**
+
+An AWS RDS instance has been launched as the backend database for this project. The backend database has been tightly integrated directly with front end UI created using retool. All the rules within the SQL scripts have been run in the database. 
+
+<img width="1834" alt="Screen Shot 2022-01-27 at 6 25 34 PM" src="https://user-images.githubusercontent.com/29777087/151460390-23a802c7-2c80-44f0-be6b-7f9faf5aaf7f.png">
 
 **Publicly Accesible Links:**
 
 Retool (Front End) - https://winedatabase.retool.com/apps/6f29e334-5b74-11ec-add3-83ede09028f8/WineDatabaseProject?_releaseVersion=latest
 
 Tableau Dashboard Link - https://prod-useast-b.online.tableau.com/#/site/winedatabaseprojectcom/views/WineDatabaseProjectDMDD/Dashboard1?:iid=1
+
 
 
