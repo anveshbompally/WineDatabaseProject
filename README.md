@@ -73,7 +73,11 @@ An AWS RDS instance has been launched as the backend database for this project. 
 
 Retool (Front End) - https://winedatabase.retool.com/apps/6f29e334-5b74-11ec-add3-83ede09028f8/WineDatabaseProject?_releaseVersion=latest
 
-Tableau Dashboard Link - https://prod-useast-b.online.tableau.com/#/site/winedatabaseprojectcom/views/WineDatabaseProjectDMDD/Dashboard1?:iid=1
+**Tableau Dashboard**
+
+<img width="1728" alt="Screen Shot 2022-01-31 at 3 51 36 AM" src="https://user-images.githubusercontent.com/29777087/151765140-f40a5a15-8b0c-4523-af26-256622fc008e.png">
+
+**Tableau Dashboard**
 
 
 
