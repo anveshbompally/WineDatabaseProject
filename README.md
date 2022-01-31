@@ -77,7 +77,6 @@ Retool (Front End) - https://winedatabase.retool.com/apps/6f29e334-5b74-11ec-add
 
 <img width="1728" alt="Screen Shot 2022-01-31 at 3 51 36 AM" src="https://user-images.githubusercontent.com/29777087/151765140-f40a5a15-8b0c-4523-af26-256622fc008e.png">
 
-**Tableau Dashboard**
 
 
 
