@@ -67,7 +67,7 @@ Country table consist of details of the country in all the cities where vineyard
 
 An AWS RDS instance has been launched as the backend database for this project. The backend database has been tightly integrated directly with front end UI created using retool. All the rules within the SQL scripts have been run in the database. 
 
-<img width="1834" alt="Screen Shot 2022-01-27 at 6 25 34 PM" src="https://user-images.githubusercontent.com/29777087/151460390-23a802c7-2c80-44f0-be6b-7f9faf5aaf7f.png">
+<img width="1697" alt="Screen Shot 2022-01-31 at 3 47 30 AM" src="https://user-images.githubusercontent.com/29777087/151763714-811fdd79-fed2-40e5-a4fc-b62a1189ef52.png">
 
 **Publicly Accesible Links:**
 
